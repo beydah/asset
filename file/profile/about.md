@@ -157,13 +157,13 @@ You can download my updated CV from the following link:
 <div align = "center">
 <h2>Statistics</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beydah&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/beydah)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beydah&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/beydah/asset/blob/main/file/profile/about.md)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=beydah&theme=dark&hide=contribs,prs)](https://github.com/beydah)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=beydah&theme=dark&hide=contribs,prs)](https://github.com/beydah/asset/blob/main/file/profile/about.md)
 
-[![GitHub Strike](https://github-readme-streak-stats.herokuapp.com/?user=beydah&theme=dark&hide_border=false)](https://github.com/beydah)
+[![GitHub Strike](https://github-readme-streak-stats.herokuapp.com/?user=beydah&theme=dark&hide_border=false)](https://github.com/beydah/asset/blob/main/file/profile/about.md)
 
-[![Roadmap](https://api.roadmap.sh/v1-badge/wide/64c14cb8fcdcf9c5d50ffab2?variant=dark&roadmaps=sql%2Ccpp%2Cprompt-engineering%2Cfull-stack)](https://github.com/beydah)
+[![Roadmap Stats](https://api.roadmap.sh/v1-badge/wide/64c14cb8fcdcf9c5d50ffab2?variant=dark&roadmaps=sql%2Ccpp%2Cprompt-engineering%2Cfull-stack)]([https://github.com/beydah](https://github.com/beydah/asset/blob/main/file/profile/about.md))
 
 <a href="https://github.com/beydah/asset/blob/main/file/profile/about.md"><img src="https://i.imgur.com/waxVImv.png" alt="Colorful Stick"></a>
 
