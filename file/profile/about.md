@@ -207,7 +207,7 @@ You can download my updated CV from the following link:
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <br>
-<a href="https://github.com/beydah">
+<a href="https://github.com/beydah/asset/blob/main/file/profile/about.md">
     <img src="https://visitcount.itsvg.in/api?id=beydah&label=Profile%20Views&color=12&icon=5&pretty=false" alt="Profile Views">
 </a>
 <br><br>
