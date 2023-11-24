@@ -1,48 +1,42 @@
 <!-- HEADER MENU -->
-<div align="center">
-    <table style="width: 100%;">
-        <tr>
-            <td><a href="https://github.com/beydah">
-                <img src="https://raw.githubusercontent.com/beydah/asset/main/logo/beydah_colorful_white.png" align="left" style="width: 100%;"  alt="Beydah Logo">
-            </a></td>
-            <td></td>
-            <td><a href="https://github.com/beydah">
-                <img src="https://raw.githubusercontent.com/beydah/asset/main/button/home_off.png" align="right" style="width: 100%;"  alt="Home Button">
-            </a></td>
-            <td><a href="https://github.com/beydah/asset/blob/main/file/profile/about.md">
-                <img src="https://raw.githubusercontent.com/beydah/asset/main/button/about_on.png" align="right" style="width: 100%;"  alt="About Button">
-            </a></td>
-            <td><a href="https://github.com/beydah/asset/blob/main/file/profile/repository.md">
-                <img src="https://raw.githubusercontent.com/beydah/asset/main/button/repo_off.png" align="right" style="width: 100%;"  alt="Repo Button">
-            </a></td>
-            <td><a href="https://github.com/beydah/asset/blob/main/file/profile/contact.md">
-                <img src="https://raw.githubusercontent.com/beydah/asset/main/button/contact_off.png" align="right" style="width: 100%;"  alt="Contact Button">
-            </a></td>
-            <td><a href="https://github.com/beydah/asset/blob/main/file/profile/contact.md">
-                <img src="https://raw.githubusercontent.com/beydah/asset/main/button/hire_focus.png" align="right" style="width: 100%;"  alt="Hire Button">
-            </a></td>
-        </tr>
-    </table>
-</div>
+<div align="center"><table><tr>
+        <td><a href="https://github.com/beydah">
+            <img src="https://raw.githubusercontent.com/beydah/asset/main/logo/beydah_colorful_blue.png" align="left" alt="Beydah Logo">
+        </a></td>
+        <td style="width: 10%;"></td>
+        <td><a href="https://github.com/beydah">
+            <img src="https://raw.githubusercontent.com/beydah/asset/main/button/home_on.png" align="right" alt="Home Button">
+        </a></td>
+        <td><a href="https://github.com/beydah/asset/blob/main/file/profile/about.md">
+            <img src="https://raw.githubusercontent.com/beydah/asset/main/button/about_off.png" align="right"  alt="About Button">
+        </a></td>
+        <td><a href="https://github.com/beydah/asset/blob/main/file/profile/repository.md">
+            <img src="https://raw.githubusercontent.com/beydah/asset/main/button/repo_off.png" align="right"  alt="Repo Button">
+        </a></td>
+        <td><a href="https://github.com/beydah/asset/blob/main/file/profile/contact.md">
+            <img src="https://raw.githubusercontent.com/beydah/asset/main/button/contact_off.png" align="right" alt="Contact Button">
+        </a></td>
+        <td><a href="https://github.com/beydah/asset/blob/main/file/profile/contact.md">
+            <img src="https://raw.githubusercontent.com/beydah/asset/main/button/hire_focus.png" align="right" alt="Hire Button">
+        </a></td>
+</tr></table></div>
 
 <h1>About Me</h1>
-<div align = "center">
-    <a href = "https://github.com/beydah/asset/blob/main/file/profile/about.md">
+<div align = "center"><a href = "https://github.com/beydah/asset/blob/main/file/profile/about.md">
         <img src = "https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt = "Random Quotes">
-    </a>
-</div>
+</a></div>
 
 <h2>Beydah Saglam | Software Developer</h2>
 
 Hello, I'm Beydah, a software developer with diverse GitHub projects. Exploring Front-End and Back-End, seeking internships, and eager to collaborate. Contact: [info.beydahsaglam@gmail.com](mailto:info.beydahsaglam@gmail.com) or [linkedin/beydah](https://www.linkedin.com/in/beydah/). Have a great day!
 
+<a href="https://github.com/beydah/asset/blob/main/file/profile/about.md"><img src="https://i.imgur.com/waxVImv.png" alt="Colorful Stick"></a>
+
 <details>
 <summary><h2>Curriculum Vitae</h2></summary>   
-<div align = "center"> 
-    <a href = "https://github.com/beydah/asset/blob/main/file/profile/about.md">
+<div align = "center"> <a href = "https://github.com/beydah/asset/blob/main/file/profile/about.md">
         <img src = "https://github-profile-trophy.vercel.app/?username=beydah&theme=nord&no-frame=false&no-bg=true&margin-w=4" alt = "Trophies">
-    </a>   
-</div>
+</a></div>
 
 <h3>Experience</h3>
 <details>  
@@ -135,7 +129,7 @@ This certificate encompasses a series of SQL-based tasks that I successfully com
 
 Google - Digital Marketing' is obtained to document my competence in acquiring fundamental knowledge and skills in the field of **digital marketing**.
 
-[_View Certificate_](https://github.com/beydah/Assets-Repository/blob/main/documents/Certificate_Google_Digital_Marketing.pdf)
+[_View Certificate_](https://github.com/beydah/asset/blob/main/certificate/google_digital_marketing.pdf)
 
 </details>
 
@@ -144,7 +138,7 @@ Google - Digital Marketing' is obtained to document my competence in acquiring f
 
 BilgeIs - Visual Design Principles' validates my understanding and application of **key principles in visual design**.
 
-[_View Certificate_](https://github.com/beydah/Assets-Repository/blob/main/documents/Certificate_BilgeIs_Visual_Design_Principles.pdf)
+[_View Certificate_](https://github.com/beydah/asset/blob/main/certificate/bilgeis_visual_design_prenciples.pdf)
 
 </details>
 
@@ -153,15 +147,12 @@ BilgeIs - Visual Design Principles' validates my understanding and application o
 You can download my updated CV from the following link:
 [_Download Full Europass Global CV_](https://github.com/beydah/asset/raw/main/resume/beydah_saglam_europass_cv_eng.pdf)
 
-<div align="left">
-    <a href="https://github.com/beydah/asset/raw/main/resume/beydah_saglam_europass_cv_eng.pdf"><img src="https://raw.githubusercontent.com/beydah/asset/main/button/download_cv_focus.png" style="width: 15%;" alt="Download CV Button"></a>
-</div>
-
+<div align="left"><a href="https://github.com/beydah/asset/raw/main/resume/beydah_saglam_europass_cv_eng.pdf">
+        <img src="https://raw.githubusercontent.com/beydah/asset/main/button/download_cv_focus.png" style="width: 15%;" alt="Download CV Button">
+</a></div>
 </details>
 
-<a href="https://github.com/beydah/asset/blob/main/file/profile/about.md">
-    <img src="https://i.imgur.com/waxVImv.png" alt="Colorful Stick">
-</a>
+<a href="https://github.com/beydah/asset/blob/main/file/profile/about.md"><img src="https://i.imgur.com/waxVImv.png" alt="Colorful Stick"></a>
 
 <div align = "center">
 <h2>Statistics</h2>
@@ -174,9 +165,7 @@ You can download my updated CV from the following link:
 
 [![Roadmap](https://api.roadmap.sh/v1-badge/wide/64c14cb8fcdcf9c5d50ffab2?variant=dark&roadmaps=sql%2Ccpp%2Cprompt-engineering%2Cfull-stack)](https://github.com/beydah)
 
-<a href="https://github.com/beydah/asset/blob/main/file/profile/about.md">
-    <img src="https://i.imgur.com/waxVImv.png" alt="Colorful Stick">
-</a>
+<a href="https://github.com/beydah/asset/blob/main/file/profile/about.md"><img src="https://i.imgur.com/waxVImv.png" alt="Colorful Stick"></a>
 
 <h2>Tech Stack</h2>
 
@@ -205,32 +194,28 @@ You can download my updated CV from the following link:
 [![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)](https://github.com/beydah/asset/blob/main/file/profile/about.md)
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://github.com/beydah/asset/blob/main/file/profile/about.md)
 
-<a href="https://github.com/beydah/asset/blob/main/file/profile/about.md">
-    <img src="https://i.imgur.com/waxVImv.png" alt="Colorful Stick">
-</a>
-
-<h2>Social Media</h2>
-
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/beydah)
-[![HackerRank](https://img.shields.io/badge/-Hacker_Rank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/beydah)
-[![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21352065/beydah)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/beydah)
-
-[![Profile Views](https://visitcount.itsvg.in/api?id=beydah&label=Profile%20Views&color=12&icon=5&pretty=false)](https://github.com/beydah/asset/blob/main/file/profile/about.md)
-
-</div>
+<a href="https://github.com/beydah/asset/blob/main/file/profile/about.md"><img src="https://i.imgur.com/waxVImv.png" alt="Colorful Stick"></a>
 
 <!-- FOOTER MENU -->
-<div align="center">
-    <tr>
-        <td></td>
-        <td><a href="https://github.com/beydah">Home</a></td>
-        <td><a href="https://github.com/beydah/asset/blob/main/file/profile/about.md">About</a></td>
-        <td><a href="https://github.com/beydah/asset/blob/main/file/profile/repository.md">Repo</a></td>
-        <td><a href="https://github.com/beydah/asset/blob/main/file/profile/contact.md">Contact</a></td>
-        <td><a href="https://github.com/beydah/asset/blob/main/file/profile/contact.md">Hire</a></td>
-        <td></td>
-    </tr>
-    <br>
-    Copyright 2023 Beydah Saglam
+<a href="https://www.hackerrank.com/beydah">
+    <img src="https://img.shields.io/badge/-Hacker_Rank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
+</a>
+<a href="https://stackoverflow.com/users/21352065/beydah">
+    <img src="https://img.shields.io/badge/-Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow">
+</a>
+<a href="https://linkedin.com/in/beydah">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<br>
+<a href="https://github.com/beydah">
+    <img src="https://visitcount.itsvg.in/api?id=beydah&label=Profile%20Views&color=12&icon=5&pretty=false" alt="Profile Views">
+</a>
+<br><br>
+<a href="https://github.com/beydah">Home</a>
+<a href="https://github.com/beydah/asset/blob/main/file/profile/about.md">About</a>
+<a href="https://github.com/beydah/asset/blob/main/file/profile/repository.md">Repo</a>
+<a href="https://github.com/beydah/asset/blob/main/file/profile/contact.md">Contact</a>
+<a href="https://github.com/beydah/asset/blob/main/file/profile/contact.md">Hire</a>
+<br>
+Copyright 2023 Beydah Saglam
 </div>
